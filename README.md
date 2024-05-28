@@ -5,3 +5,5 @@ Dělá screenshoty a detekuje objekty na obrazovce a pokud najde shodu a ta je v
 
 
 Program používa YOLO v8 jako Ai a best(1).pt můj vlastní vztrénovaný model k detekci objektů 
+
+Code obsaen pouze v 
