@@ -8,3 +8,5 @@ Program používa YOLO v8 jako Ai a best(1).pt můj vlastní vztrénovaný model
 
 
 Code obsaen pouze v Albion_Bot.py
+Image_predict vám ukáže co vydí program na screenshotu musí se jmenovat test2.png
+GetData dělá a ukládá screenshoty obrayovky 1
