@@ -248,8 +248,7 @@ def main():
 
     # Listen for keyboard input to quit the program
     keyboard.wait("space")
-
-    # Set the stop event to end the screenshot thread
+
     stop_event.set()
 
     # Wait for the screenshot thread to finish
