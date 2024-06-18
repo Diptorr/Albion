@@ -12,7 +12,7 @@ import random
 
 
 def is_green(pixel):
-    # Define the green color range (you can adjust these values)
+    # Define the green color range 
     green_min = (0, 100, 0)  # Minimum RGB values for green
     green_max = (50, 255, 50)  # Maximum RGB values for green
 
